@@ -1,0 +1,156 @@
+RAGHU VARDHAN                                                                                    Email: raghu6909@gmail.com
+Associate Test Engineer.                                                         Contact No: 9008529808.
+
+CAREER OBJECTIVE
+To be in challenging position in Software Testing and Quality Management in an good organization to utilize my skills and experience for the potential growth of the organization and myself.
+PROFESSIONAL SUMMARY
+	Over 6.2 Years of Experience in Automation Testing [Selenium web driver], Manual Testing on Financial, E-Classifieds, Tele communications and Project Management Domains.
+	Good experience in Test Scenarios, Test case preparation, Test case execution.
+	 Experience in preparing Defect Reports.
+	Performed various types of test for Web Application. 
+	Experience in writing scripts for regression test cases in Selenium Web Driver and generating Reports using TestNG.
+	Handled Financial Calculations for the project and Automated the financial calculation part using selenium web driver.
+	Performed performance testing using Jmeter. 
+	1 year and 10 months of experience in Hadoop Admin and BigData product testing on hadoop, Hive and spark.
+WORK EXPERIENCE:
+	Working as a Associate test engineer in Cognizant software solutions from Jan 2015 to till date
+	Worked as a Software test engineer in Immco Solutions PVT Ltd. From Sep 2014 to Dec 2014
+	Worked as a Software Test Engineer in Allvy Software solutions PVT Ltd. from Jun 2011 to Aug 2014.
+
+TECHNICAL SKILLS:
+	Operating system		:	Windows and Linux (Fedora 17).
+	Database and File system	:	HDFS and Hadoop 
+	Automation Tool		:	Selenium 2.0, JMeter (Performance Testing)
+	Bug Tracking Tools		:	Bugzilla.
+	Test Management Tool		:	Test Link, TMSS and JIRA 
+	Languages			:	HTML, Sql, Hive, python (Beginner), Shell                      Scripting (Beginner) and Core Java.      
+	Packages			:	MS Office (Excel ,Power Point.)
+
+
+PROFFESIONAL EXPERIENCE in Cognizant Technology Solutions
+Project#1
+
+Product Name		:	ServiceNow
+Duration		:	Jun 2017 to till date
+Location		:	Hyderabad
+Team Size		:	6
+Client			:	ServiceNow
+Description :
+		 Project Portfolio Studio with financials is application help to manage the Tasks, Projects, Programs and Portfolio. There are Resource management, Demand Management, Project management and financial management to manage the projects and their tasks with relations.
+
+Roles and Responsibilities :
+	Testing the application according to stories
+	Involved in Functional Testing
+	involved in Compatibility testing
+	Involved in Accessibility testing
+	Involved in writing selenium scripts
+Project#2
+Product Name		:	Carbon (open source)
+Open source Tools	:	Hadoop, HDFS, HIVE and Spark
+Internal Tools		:	Yong Hong, ICP-CI, HUTAF, DBOX
+Duration		:	Jun 2015 to May 2017
+Location		:	Huawei Technologies 
+Team Size		:	6
+Clients			:	Vmall, Smart PCC,Oscon
+Description :
+	Carbon  is high performance analysis engine that integrates as data source with spark carbon users an Advanced file format with multidimensional indices, columnas Storage, and heavy weights comparision to resolve query results in seconds for TB level data,carbon also supports advanced SQL syntax for complex interactive analysis.
+	The goal of carbon is to provide ultra fast response to ad-hoc queries of bigdata.Carbon is basically an OLAP engine and stores data as cubes which are similar to table in RDBMS.Carbon provides simple SQL interface for quering and analysing the data. User can bulk loads huge amount (10+ cubes) of data into Carbon.Carbon will automatically organize and store the data in compressed multidimensional includes columnar format.Once data is load in to carbon,ad-hoc query can be executed on the data and  carbon will provide the query response in seconds.
+Roles and Responsibilities :
+	Interact with Dev team to understand the Requirements and Test scenarios.
+	Writing test Cases for given Actual Requirement.
+	Writing Test scenarios as per Requirement Document.
+	Check the Automation Results and Analyse the failures in ICP-CI Tools [continue Integration].
+	Executing the Santity Test cases for every Release Build.
+	Executing the Regression and Full Functional Automation Test Cases.
+	Installing the Product with spark 1.5 and spark 2.1 , Executing the Santity test cases.
+	Check the performance of Product when data is fetching with 25 concurrent queries
+	Checking the data loading performance with 300 Gb of Data with 10 node Cluster
+	Testing the product in different client like Spark-sql,Spark-shell and beeline
+	Testing the product with different JDK like IBM/Oracle JDK’s 
+	Experience in Code Coverage using EMMA tool
+	Generating the data using simulator
+Project#3
+
+Project Name                 : Publishing Technology 
+Client	                           : Publishing Technology
+Tools    	              : Selenium Web Driver,TFS
+Languages                     : Java
+Duration	              : Jan 2015 to May 2015
+Team Size	              : 2
+Role	                           : Automation Tester	
+Description :  
+Publishing Technology is the world-leading provider of content solutions that transform business. We cover the publishing process from end to end with content systems, audience development and content delivery software and services.
+ 		The primary purpose of the software is to manage the Product metadata for Harper Collins worldwide.  The initial development is to meet the requirements of the US Division, in the second and subsequent phases this will be enhanced to meet the requirements of the other international Division.
+Responsibilities : 
+As a Automation tester I am responsible for
+	Writing the test Scripts for the regression Test cases.
+	Have Done POC for this project.
+	Commit the code at the end of the day.
+	Executing the test scripts and analyses the failed test cases.
+	Preparing the document for failed test cases and same updated in Test cases sheet.
+	Executing the test cases in manual for finding the basic issues in application.
+PROFFESIONAL EXPERIENCE in IMMCO Software Solutions
+   Project#1
+	Project			:	DOCK
+	Domain		:	Telecommunication
+	Team Size		:	8
+	Client			:	TWC (Time Warner cable-USA.)
+	Duration		:	Sep 2014 to Dec 2014
+
+Description:
+		DOCK – Depository of Centralized Knowledge is an enterprise wide web application that integrates multiple work processes of various departments such as Engineering, Construction, Human Resource, Management and Finance of Time Warner Cable Systems into a single system. DOCK serves as a decision making tool that manages multiple functions like: Serviceability Analysis, Field Verification Management, AFT Survey, Project Cost Estimation, Construction Cost Analysis and Expense Management. Data mining, querying and multiple reporting are incorporated to handle several management needs from Dashboard interface and Query tool.
+Roles and Responsibilities:
+
+	Writing the test Scripts for the regression Test cases.
+	Writing Result in Test link Management tool.
+	Testing the Application performance using J Meter.
+	Testing the application compatibility in IPAD, Mac book and Windows with different Browsers.
+	Testing the Compatibility using Browsers Stack and Cross browser testing.
+PROFFESIONAL EXPERIENCE in Allvy Software Solutions
+   Project#1 
+
+Project		:	Open World Money
+Domain		:	Financial Domain, CRM (Customer Relation Management) and
+                                              E-Commerce 
+Team Size		:	8
+Client		:	Open World Knowledge Solutions.
+Duration		:	Aug 2011 to Aug 2014
+              Description:
+                                Open World Money as the name suggests, is about Money and what money can do for you if you plan things properly. Earning money is difficult. But managing it is much tougher. It consists of four modules customer, Advisor, Product provider and Admin. Advisor can give advises to the customers queries and suggest the products to buy. Product provider is having his own products and gives training to the advisors regarding his products. 
+Roles and Responsibilities:
+	Involved in preparing and executing the test cases and reporting issues.
+	Involved in preparing the Selenium Scripts for Client Module. 
+	Testing the Portals on QA Environment.
+	Communication with Open World Money project team on daily basis.
+	Involved in Financial Calculations like EMI, Investment Assets .etc. required for project.
+	Involved in preparing the Automatic calculation verification selenium scripts for the Client Module
+	Prepared User manual Guide, Understanding Documents and calculation documents for total project.
+	Involved in Performance testing using JMeter Tool.
+
+Project#2
+Project                  :              RAPID
+Domain                 :              Financial Domain
+Team Size             :              4
+Client                    :              India First Life Insurance.
+Location               :              Client Location (Mumbai)
+Duration               :              Dec 2013 to Mar 2014
+
+Description:
+                        RAPID is web application having insurance policies schemes and details and able to purchase the policies online. In RAPID, each letter will explain the importance of Application. R for READ the insurance Details, A for APPLY for Insurance, P for PAY the amount online from this web app, I for INTERACT the advisors, D for DOWNLOAD the Detailed Documents about each Policy.
+Roles and Responsibilities:
+	Involved in preparation and execution of test cases.
+	Testing the Portals on QA Environment.
+	Writing Test cases according to UI Specification.
+	Testing the UI part with comparing with Screens.
+	Posting bugs in Mantis.
+	Updating the daily task details in Xplanner.
+Education Details:
+	Pursued M.Sc Computer science (2008-2010) with 76% from Sri Venkateshwara University.
+	Pursued B.Sc Computer science (2004-2007) from Sri Krishna Devaraya University.
+Achievements:
+•	As an Event Organizer conducted all the activities in Company
+•	Submitted a paper presentation at Saint Joseph Degree College on Statistics.                                                                                                                                                    
+Declaration:
+I affirm that all the information furnished above is true to the best of my knowledge.   
+                                                   
+                                                                                           		                             M. Raghu Vardhan 
